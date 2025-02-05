@@ -9,20 +9,15 @@ Dans le cadre de ma veille technologique sur le modding de jeux vidéo avec Lua,
 Google Alerts permet de recevoir des notifications par e-mail dès qu'un nouveau contenu correspondant à certains mots-clés est publié sur le web.  
 
 ### 📋 Mots-clés configurés :  
-- *"Garry's Mod Lua mods"*  
-- *"Roblox Lua updates"*  
-- *"Lua scripting modding news"*  
-- *"DayZ Lua modding"*  
-- *"Lua gaming updates"*  
+
+-*Lua Modding*
+-*Gaming modding community updates*
+-*Lua modding news*   
 
 ### ➡️ Avantages :  
 - Alertes en temps réel sur les actualités importantes.  
 - Facilité de configuration et d'accès (directement via Gmail).  
 - Couvre une large variété de sources.  
-
-### ❌ Limites :  
-- Peut générer des alertes avec des informations peu pertinentes.  
-- Ne couvre pas les contenus spécifiques à certaines communautés comme Discord ou Reddit.  
 
 ---
 
