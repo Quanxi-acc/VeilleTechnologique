@@ -52,8 +52,3 @@ Pour approfondir, je participe à des communautés actives :
 - **Discords spécialisés :** Communautés autour de *Garry's Mod* ou *Roblox*.  
 - **Subreddits :** *r/gmod*, *r/robloxdev*, *r/dayzmods*.  
 - **Forums :** Facepunch, Roblox Developer Forum.  
-
----
-
-## 📝 Licence  
-Ce repository est sous licence [MIT](LICENSE). Les informations partagées sont libres d'utilisation et peuvent être adaptées à d'autres projets.  
