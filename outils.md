@@ -10,9 +10,12 @@ Google Alerts permet de recevoir des notifications par e-mail dès qu'un nouveau
 
 ### 📋 Mots-clés configurés :  
 
--*Lua Modding*
--*Gaming modding community updates*
--*Lua modding news*   
+- *Lua Modding*
+- *Gaming modding community updates*
+- *Lua modding news*
+- *Lua gaming updates*
+- *Lua scripting modding news*
+- *Garry's Mod Lua mods*
 
 ### ➡️ Avantages :  
 - Alertes en temps réel sur les actualités importantes.  
