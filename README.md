@@ -12,10 +12,10 @@ Ce repository regroupe ma veille technologique sur le thème du **modding dans l
 
 ---
 
-## 📂 Contenu du repository  
-- **`sources.md`** : Liste des sites, forums, et plateformes suivis pour la veille.  
-- **`news.md`** : Regroupe les actualités hebdomadaires/mensuelles autour des nouveautés dans le modding.  
-- **`outils.md`** : Référencement des outils et logiciels utilisés pour créer ou gérer des mods en Lua.  
+## 📂 Contenu du repository   
+- **`Journal.md`** : Regroupe les actualités hebdomadaires/mensuelles autour des nouveautés dans le modding.
+- **`Sources.md`** : Liste des sites, forums, et plateformes suivis pour la veille. 
+- **`Outils.md`** : Référencement des outils et logiciels utilisés pour créer ou gérer des mods en Lua.  
 
 ---
 
