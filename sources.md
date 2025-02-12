@@ -1,7 +1,3 @@
-Voici un exemple pour le fichier `sources.md`, en suivant la structure de ton `README.md`. Ce fichier répertorie les principales sources d'information pour ta veille technologique sur le modding avec Lua.
-
----
-
 # Sources pour la Veille Technologique : Modding Jeux Vidéo avec Lua
 
 Ce fichier liste les sources suivies pour la veille technologique sur le modding des jeux vidéo, en particulier ceux utilisant Lua. Ces sources couvrent des forums, sites spécialisés, communautés et ressources en ligne qui partagent des informations sur le modding et l’utilisation de Lua dans le développement de contenu personnalisé pour les jeux vidéo.
@@ -93,11 +89,3 @@ Ce fichier liste les sources suivies pour la veille technologique sur le modding
 ### 3. **IndieDB**  
    - **Description** : Une plateforme dédiée aux jeux indépendants qui propose également des informations et des ressources pour les moddeurs et les créateurs de contenu en Lua.  
    - **Lien** : [https://www.indiedb.com](https://www.indiedb.com)
-
----
-
-Ce fichier sera mis à jour régulièrement pour intégrer les nouvelles sources d'information et les plateformes qui émergent dans le domaine du modding avec Lua. Si tu as des sources à ajouter, n’hésite pas à contribuer !
-
----
-
-Est-ce que ce format te convient pour le fichier `sources.md` ? Si tu as d'autres sources à ajouter ou des ajustements à faire, fais-le moi savoir !
