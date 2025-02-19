@@ -30,7 +30,6 @@ Voici un journal de bord pour suivre l'évolution de la veille technologique aut
 - **Lien :**  
   [South Bronx Script](https://www.mycompiler.io/view/I98NJVmsbGa)
 
----
 
 - **Alerte Google :** [Lua code]
 - **Résumé :**  
