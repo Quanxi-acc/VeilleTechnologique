@@ -23,7 +23,7 @@ Voici un journal de bord pour suivre l'évolution de la veille technologique aut
 
 ## 19/02/2025
 
-- **Alerte Google :** Lua code
+- **Alerte Google :** [Lua code]
 - **Résumé :**  
   - L'alerte fait référence à un lien vers un environnement de codage en ligne pour le langage Lua. Le lien mène à une plateforme où les utilisateurs peuvent tester et exécuter des scripts Lua directement dans leur navigateur, sans avoir besoin d'installer quoi que ce soit sur leur machine. Cela peut être particulièrement utile pour les développeurs qui souhaitent expérimenter avec le langage ou résoudre rapidement des problèmes sans configurer un environnement local. La plateforme permet aussi aux utilisateurs de partager et de collaborer sur du code Lua, ce qui peut être un excellent moyen de pratiquer et d'apprendre plus efficacement. Ce genre d'outil contribue à l'accessibilité du langage Lua, permettant à des développeurs de divers niveaux de s'essayer à la programmation en Lua et de comprendre plus facilement les concepts de base du langage.
 
@@ -32,14 +32,12 @@ Voici un journal de bord pour suivre l'évolution de la veille technologique aut
 
 ---
 
-## 2025-02-10
-
-- **Alerte Google :** [Titre de l'alerte]
+- **Alerte Google :** [Lua code]
 - **Résumé :**  
-  - (Résume ce que tu as trouvé dans l'alerte Google. Indique les points importants, les nouvelles tendances, les outils ou les ressources intéressantes.)
+  - L'alerte fait référence à un outil disponible sur le marketplace de Visual Studio Code, intitulé **KCD2 Lua Run**. Cet outil permet d'exécuter des scripts Lua directement depuis l'éditeur Visual Studio Code, offrant ainsi aux développeurs une solution pratique pour tester et déboguer leurs programmes Lua. Le plugin simplifie l'intégration de Lua dans le flux de travail de développement en ajoutant un environnement d'exécution Lua complet au sein de l'IDE, sans nécessiter d'installations supplémentaires complexes. Cela améliore la productivité des programmeurs Lua en leur offrant un moyen rapide de tester leurs codes, tout en bénéficiant des fonctionnalités puissantes de Visual Studio Code comme le débogage et la gestion des extensions.
 
 - **Lien :**  
-  [Lien vers l'article ou la ressource](URL)
+  [Lien vers l'article](https://marketplace.visualstudio.com/items?itemName=yobson.kcd2-lua-run)
 
 ---
 
