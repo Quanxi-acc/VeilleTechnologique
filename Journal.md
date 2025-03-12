@@ -47,8 +47,7 @@ D'accord, voici le résumé formaté pour ton journal de bord :
 - **Résumé :**  
   - La discussion sur Stack Overflow porte sur l'échappement de caractères dans un script Lua lorsqu'il est utilisé avec PowerShell. L'utilisateur cherche une méthode pour exécuter un script Lua via PowerShell sans rencontrer d'erreurs liées aux caractères spéciaux. Plusieurs solutions sont proposées, notamment l'utilisation de doubles guillemets et d'opérateurs d'échappement spécifiques à PowerShell pour éviter les conflits syntaxiques. Ce sujet est pertinent pour les développeurs utilisant Lua en conjonction avec des scripts d'automatisation sur Windows, car il met en lumière les défis liés à l'interopérabilité entre Lua et PowerShell.  
 
-- **Lien :**  
-  [Stack Overflow - PowerShell Escape in Lua Script](https://stackoverflow.com/questions/79503032/powershell-escape-in-lua-script)    
+- **Lien :**  [Stack Overflow - PowerShell Escape in Lua Script](https://stackoverflow.com/questions/79503032/powershell-escape-in-lua-script)    
 
 ---
 
@@ -58,8 +57,7 @@ D'accord, voici le résumé formaté pour ton journal de bord :
 - **Résumé :**  
   - L'article présente les nouveautés de la prochaine version 0.49 du moteur de jeu **OpenMW**, une réimplémentation open-source du moteur de **The Elder Scrolls III: Morrowind**. Cette mise à jour majeure apporte de nombreuses améliorations, notamment une meilleure gestion du modding, des performances optimisées et une compatibilité accrue avec Lua pour les scripts de mods. OpenMW continue d'évoluer pour offrir aux joueurs une expérience modernisée de Morrowind, avec des fonctionnalités qui facilitent la personnalisation et l'extension du jeu grâce aux mods. Cette version 0.49 marque une avancée significative pour la communauté des moddeurs et des passionnés du jeu.  
 
-- **Lien :**  
-  [GamingOnLinux - OpenMW 0.49 Release](https://www.gamingonlinux.com/2025/02/morrowind-game-engine-openmw-gearing-up-for-a-huge-new-0-49-release/)  
+- **Lien :** [GamingOnLinux - OpenMW 0.49 Release](https://www.gamingonlinux.com/2025/02/morrowind-game-engine-openmw-gearing-up-for-a-huge-new-0-49-release/)  
 
 ---
 
