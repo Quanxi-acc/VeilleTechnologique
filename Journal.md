@@ -57,7 +57,27 @@ D'accord, voici le résumé formaté pour ton journal de bord :
 - **Résumé :**  
   - L'article présente les nouveautés de la prochaine version 0.49 du moteur de jeu **OpenMW**, une réimplémentation open-source du moteur de **The Elder Scrolls III: Morrowind**. Cette mise à jour majeure apporte de nombreuses améliorations, notamment une meilleure gestion du modding, des performances optimisées et une compatibilité accrue avec Lua pour les scripts de mods. OpenMW continue d'évoluer pour offrir aux joueurs une expérience modernisée de Morrowind, avec des fonctionnalités qui facilitent la personnalisation et l'extension du jeu grâce aux mods. Cette version 0.49 marque une avancée significative pour la communauté des moddeurs et des passionnés du jeu.  
 
-- **Lien :** [GamingOnLinux - OpenMW 0.49 Release](https://www.gamingonlinux.com/2025/02/morrowind-game-engine-openmw-gearing-up-for-a-huge-new-0-49-release/)  
+- **Lien :** [GamingOnLinux - OpenMW 0.49 Release](https://www.gamingonlinux.com/2025/02/morrowind-game-engine-openmw-gearing-up-for-a-huge-new-0-49-release/)
+
+---
+
+## 27/03/2025
+
+**Alerte Google :** [Lua modding anticheat FiveM]
+
+**Résumé :**  
+L'article aborde les différentes méthodes de triche rencontrées sur FiveM, une plateforme multijoueur pour *Grand Theft Auto V*, notamment l'utilisation de *Lua executors* permettant aux tricheurs d'injecter et d'exécuter des scripts Lua arbitraires pour contourner les restrictions du serveur.  
+Ces scripts peuvent octroyer des avantages indus tels que de l'argent illimité, la génération de véhicules ou la modification d'autres mécanismes du jeu.  
+
+L'article souligne l'importance pour les développeurs de FiveM de mettre en place des stratégies anti-triche robustes afin de maintenir un environnement de jeu équitable et compétitif.  
+Parmi les mesures recommandées figurent :
+- La validation côté serveur
+- L'utilisation de plugins et scripts anti-triche
+- La détection des tentatives d'exécution de scripts Lua
+- La surveillance des manipulations de mémoire et de paquets
+- La prévention de l'utilisation de menus de triche  
+
+**Lien :** [London Daily News](https://www.londondaily.news/fighting-modders-anticheat-strategies-for-fivem-developers/)
 
 ---
 
