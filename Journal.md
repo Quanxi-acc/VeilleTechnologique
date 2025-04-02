@@ -72,7 +72,7 @@
   - La prévention de l'utilisation de menus de triche  
 
 
-**Lien :** [London Daily News](https://www.londondaily.news/fighting-modders-anticheat-strategies-for-fivem-developers/)
+- **Lien :** [London Daily News](https://www.londondaily.news/fighting-modders-anticheat-strategies-for-fivem-developers/)
 
 ---
 
