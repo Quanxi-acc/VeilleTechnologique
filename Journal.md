@@ -57,19 +57,20 @@
 
 ## 27/03/2025
 
-**Alerte Google :** [Lua modding anticheat FiveM]
+- **Alerte Google :** [Lua modding anticheat FiveM]
 
-**Résumé :**  
-L'article aborde les différentes méthodes de triche rencontrées sur FiveM, une plateforme multijoueur pour *Grand Theft Auto V*, notamment l'utilisation de *Lua executors* permettant aux tricheurs d'injecter et d'exécuter des scripts Lua arbitraires pour contourner les restrictions du serveur.  
-Ces scripts peuvent octroyer des avantages indus tels que de l'argent illimité, la génération de véhicules ou la modification d'autres mécanismes du jeu.  
+- **Résumé :**
+  - L'article aborde les différentes méthodes de triche rencontrées sur FiveM, une plateforme multijoueur pour *Grand Theft Auto V*, notamment l'utilisation de *Lua executors* permettant aux tricheurs d'injecter et d'exécuter des scripts Lua arbitraires pour contourner    les restrictions du serveur.  
+  Ces scripts peuvent octroyer des avantages indus tels que de l'argent illimité, la génération de véhicules ou la modification d'autres mécanismes du jeu.  
 
-L'article souligne l'importance pour les développeurs de FiveM de mettre en place des stratégies anti-triche robustes afin de maintenir un environnement de jeu équitable et compétitif.  
-Parmi les mesures recommandées figurent :
-- La validation côté serveur
-- L'utilisation de plugins et scripts anti-triche
-- La détection des tentatives d'exécution de scripts Lua
-- La surveillance des manipulations de mémoire et de paquets
-- La prévention de l'utilisation de menus de triche  
+  L'article souligne l'importance pour les développeurs de FiveM de mettre en place des stratégies anti-triche robustes afin de maintenir un environnement de jeu équitable et compétitif.  
+  Parmi les mesures recommandées figurent :
+  - La validation côté serveur
+  - L'utilisation de plugins et scripts anti-triche
+  - La détection des tentatives d'exécution de scripts Lua
+  - La surveillance des manipulations de mémoire et de paquets
+  - La prévention de l'utilisation de menus de triche  
+
 
 **Lien :** [London Daily News](https://www.londondaily.news/fighting-modders-anticheat-strategies-for-fivem-developers/)
 
